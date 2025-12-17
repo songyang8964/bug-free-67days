@@ -15,6 +15,7 @@
 ## 💻 代码 (Java)
 
 ```java
+
 public class _27_RemoveElement {
 
     int slow = 0;
