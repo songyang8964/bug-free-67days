@@ -15,5 +15,5 @@
   * [704. 二分查找](zh-cn/Array/Leetcode704_二分查找.md)
   * [977. 有序数组的平方](zh-cn/Array/Leetcode977_有序数组的平方.md)
   * [59. 旋转数组](zh-cn/Array/Leetcode59_SpiralMatrixII.md)
-  * [303.](zh-cn/Array/Leetcode303_RangeSumQueryImmutable.md)
-  * [209.](zh-cn/Array/Leetcode209_MinimumSizeSubarraySum.md)
+  * [303.RangeSumQueryImmutable](zh-cn/Array/Leetcode303_RangeSumQueryImmutable.md)
+  * [209.MinimumSizeSubarraySum](zh-cn/Array/Leetcode209_MinimumSizeSubarraySum.md)
